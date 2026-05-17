@@ -1,0 +1,5 @@
+This project is intuitive for beginners who want to delve onto the world of RTL design.
+RTL design is more than just writing synthesizable codes. It's rather knowing what logical
+components to use to implement certain digital logic functionality with synthesis & timing
+optimization in mind. The project is fun & we enjoyed debugging the problems. Also the course
+faculty Arto Oinonen was very helpful.
